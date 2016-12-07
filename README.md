@@ -3,7 +3,7 @@ This is the code repository for [Tableau 10.0 Best Practices](https://www.packtp
 ## About the Book
 Tableau has emerged as an industry leader in the field of data discovery and business analytic software solutions. While there is a lot of information on how to use the tool, most Tableau users are faced with the challenge on how it can be effectively used to derive meaningful business insights from the uncharted territory of data.
 ##Instructions and Navigations
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the data is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 
 
