@@ -1,6 +1,4 @@
 #Tableau 10.0 Best Practices
-
-
 This is the code repository for [Tableau 10.0 Best Practices](https://www.packtpub.com/big-data-and-business-intelligence/tableau-100-best-practices?utm_source=github&utm_medium=repository&utm_campaign=9781786460097), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 ![Tableau 10.0 Best Practices Cover image](https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05454_MockupCover.jpg)
