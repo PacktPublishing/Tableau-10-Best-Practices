@@ -1,7 +1,7 @@
 #Tableau 10.0 Best Practices
 This is the code repository for [Tableau 10.0 Best Practices](https://www.packtpub.com/big-data-and-business-intelligence/tableau-100-best-practices?utm_source=github&utm_medium=repository&utm_campaign=9781786460097), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-Tableau has emerged as an industry leader in the field of data discovery and business __analytic__ software solutions. While there is a lot of information on how to use the tool, most Tableau users are faced with the challenge on how it can be effectively used to derive meaningful business insights from the uncharted territory of data.
+Tableau has emerged as an industry leader in the field of data discovery and business analytic software solutions. While there is a lot of information on how to use the tool, most Tableau users are faced with the challenge on how it can be effectively used to derive meaningful business insights from the uncharted territory of data.
 ##Instructions and Navigations
 All of the data is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
